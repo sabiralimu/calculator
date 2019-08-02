@@ -3,7 +3,7 @@ public class calculator{
 
 	
 	}
-int addition(int x, int y){
+double addition(double x, int double y){
 	
 	return x+y;
 }
